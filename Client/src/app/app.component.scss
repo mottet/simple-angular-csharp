@@ -1,0 +1,15 @@
+.livebox {
+  font-size: 2em;
+  font-family: sans-serif;
+  text-align: center;
+  border: solid;
+  border-radius: 0.3em;
+  transition: all 500ms;
+  color: #1a1717;
+
+}
+
+.livebox:hover {
+  background-color: rgb(26, 163, 111);
+  color: #000000;
+}
